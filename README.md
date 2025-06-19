@@ -8,13 +8,13 @@ This project analyzes historical SpaceX Falcon 9 launch data to uncover key insi
 
 ## 📌 Table of Contents
 
-- [Project Motivation](#project-motivation)
-- [Data Sources](#data-sources)
-- [Tech Stack](#tech-stack)
-- [Key Features](#key-features)
-- [Usage](#usage)
-- [Results](#results)
-- [Conclusion](#conclusion)
+- [Project Motivation](#Project-Motivation)
+- [Data Sources](#Data-Sources)
+- [Tech Stack](#Tech-Stack)
+- [Key Features](#Key-Features)
+- [Usage](#Usage)
+- [Results](#Results)
+- [Conclusion](#Conclusion)
 
 ---
 
@@ -58,13 +58,13 @@ SpaceX aims to reduce launch costs by reusing Falcon 9's first stage. This proje
 📈 Data visualization with trends and orbit-based outcomes
 
 ## ▶️ Usage
-Explore the notebooks/ for full exploratory data analysis
+Explore the notebooks for full exploratory data analysis
 
-Run the dashboard/app.py to use the interactive dashboard
+Run the spacex-dash-app.py to use the interactive dashboard
 
-View interactive maps under visuals/
+View interactive maps in visuals
 
-Review ML performance in models/ folder
+Review ML performance of the models in SpaceX_Machine Learning Prediction.ipynb
 
 ## 📊 Results
 All classification models (Logistic Regression, SVM, KNN, Decision Tree) achieved:
