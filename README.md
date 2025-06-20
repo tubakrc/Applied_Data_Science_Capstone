@@ -8,7 +8,7 @@ This project analyzes historical SpaceX Falcon 9 launch data to uncover key insi
 
 ## 📌 Table of Contents
 
-- [Project Motivation](#project-motivation)
+- [Project Motivation](#📈-project-motivation)
 - [Data Sources](#data-sources)
 - [Tech Stack](#tech-stack)
 - [Key Features](#key-features)
